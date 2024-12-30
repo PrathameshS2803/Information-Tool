@@ -1,5 +1,4 @@
-# Information-Tool<\br>
-# Information Tools Suite
+# Information-Tool
 
 This project is a Python-based command-line application that provides a suite of tools for various informational and utility purposes, including generating passwords, scanning ports, and creating QR codes. It is designed to be user-friendly and offers a wide range of functionalities.
 
@@ -47,9 +46,3 @@ This project is a Python-based command-line application that provides a suite of
   - `threading`
   - `phonenumbers`
   - `tabulate`
-
-## Installation
-
-1. Clone this repository:
-   ```bash
-   git clone <repository-url>
